@@ -16,6 +16,5 @@ bool isDivideBy(int number, int a, int b)
 int main()
 {
 	cout << isDivideBy(12,4,3) << endl; 
-	cout << true;
 	return 0;
 }
